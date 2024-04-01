@@ -1,4 +1,3 @@
-// Write your code here!
 const myMain= document.getElementById("main")
 myMain.remove();
 const newHeader = document.createElement("h1")
